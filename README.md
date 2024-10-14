@@ -50,7 +50,7 @@ Before you begin, ensure you have met the following requirements:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/UserManagement/UserManagementAPI.git
+git clone https://github.com/mdhruvi/UserMangement.git
 ```
 
 ### Step 3: Run the Application
